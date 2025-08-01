@@ -1,9 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: T4T4R1S
+description: an information security blog which contains a blogs related to hackthebox, tryhackme,web application security. Mustafa Altayeb.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://t4t4r1s.github.io/tataris
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/t4t4r1s
 theme: just-the-docs
