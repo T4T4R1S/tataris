@@ -1,7 +1,6 @@
 ---
 title: Kenobi
-nav_order: 1
-parent: TryHackMe
+layout: home
 ---
 # API Reference
 
